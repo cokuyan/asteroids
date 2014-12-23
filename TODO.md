@@ -6,7 +6,6 @@ things to do
 - get a background image
 - animate destructions
 - have lives
-- have asteroids split apart
 
 
 things to maybe add
