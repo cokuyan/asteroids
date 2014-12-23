@@ -1,5 +1,6 @@
 things to do
 -----
+- lessen ship acceleration
 - add credits in the readme file (for images, etc.)
 - fix input mapping to be more natural
 - implement levels
