@@ -1,8 +1,7 @@
 things to do
 -----
-- lessen ship acceleration
+- have a max ship velocity
 - add credits in the readme file (for images, etc.)
-- fix input mapping to be more natural
 - implement levels
 - get a background image
 - animate destructions
