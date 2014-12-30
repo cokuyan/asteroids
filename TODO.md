@@ -1,6 +1,5 @@
 things to do
 -----
-- have a max ship velocity
 - add credits in the readme file (for images, etc.)
 - implement levels
 - get a background image
