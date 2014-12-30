@@ -2,7 +2,6 @@ things to do
 -----
 - add credits in the readme file (for images, etc.)
 - implement levels
-- get a background image
 - animate destructions
 - have lives
 
