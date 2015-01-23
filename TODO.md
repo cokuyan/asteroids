@@ -4,7 +4,9 @@ things to do
 - implement levels
 - animate destructions
 - have lives
-
+- points
+- sound effects
+- prettify
 
 things to maybe add
 ----
