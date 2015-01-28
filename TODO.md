@@ -1,8 +1,8 @@
 things to do
 -----
 - add credits in the readme file (for images, etc.)
-- implement levels
 - animate destructions (have a boolean that draws it until it sets itself to false)
+- display levels
 - display lives
 - points
 - sound effects
