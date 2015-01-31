@@ -3,8 +3,6 @@ things to do
 - add credits in the readme file (for images, etc.)
 - animate destructions (have a boolean that draws it until it sets itself to false)
 - display levels
-- display lives
-- points
 - sound effects
 - prettify
 
@@ -16,4 +14,4 @@ things to maybe add
 
 bugs
 ---
-- when going backwards hits the max speed, it resets to going forward instead of backward...
+- angle of firing becomes out of sync with angle the ship is facing when angling and impulsing at the same time
